@@ -1,0 +1,15 @@
+{
+  "id": "world_026",
+  "name": "AUSTIN — Starter Project",
+  "author": "Teacher starter for AUSTIN",
+  "description": "Recover the repair core, clear two turrets and reach the exit.",
+  "iconColor": "yellow",
+  "position": {
+    "x": 512,
+    "y": 192
+  },
+  "width": 32,
+  "height": 32,
+  "levelId": "world_026_level",
+  "rewardId": "key_world_026"
+}
